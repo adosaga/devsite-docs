@@ -77,7 +77,7 @@ El proceso completo para probar el checkout es el siguiente:
     * **CALL**: Rechazo llamar para autorizar.  
     * **FUND**: Rechazo por monto insuficiente.  
     * **SECU**: Rechazo por código de seguridad.  
-    * **EXPI**: Rechazo por fecha de expiración.
+    * **EXPI**: Rechazo por fecha de expiración de la tarjeta.
     * **FORM**: Rechazo por error en formulario.  
     * **OTHE**: Rechazo general.
 6. Valida, en caso de reintento, que se lleven a cabo correctamente.
